@@ -1,3 +1,9 @@
+# Seasons
+
+Simple React JS app that determines the location of the users browser and then based on the location determines what season it is.
+
+Demo: <a href="https://rleap.github.io/seasons">Seasons</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
